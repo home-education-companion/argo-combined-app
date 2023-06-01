@@ -8,4 +8,4 @@ resources:
 namespace: production
 images:
   - name: homeedcomp/argo-combined-app
-    newTag: "placeholder"
+    newTag: "9e3bd36481f18b20d3ce7b04cb0e19a53ba60c0b"
