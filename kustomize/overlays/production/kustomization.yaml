@@ -6,6 +6,3 @@ resources:
 - istio.yaml
 - rollout.yaml
 namespace: production
-images:
-  - name: homeedcomp/argo-combined-app
-    newTag: "placeholder"
